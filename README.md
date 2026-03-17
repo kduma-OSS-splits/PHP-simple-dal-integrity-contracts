@@ -1,6 +1,6 @@
-# Simple DAL - Data Integrity Contracts
+# Simple DAL - Integrity Contracts
 
-Data integrity algorithm contracts and interfaces for the Simple DAL data integrity plugin.
+Integrity algorithm contracts and interfaces for the Simple DAL integrity plugin.
 
 Part of the [Simple DAL](https://opensource.duma.sh/libraries/php/simple-dal) project.
 

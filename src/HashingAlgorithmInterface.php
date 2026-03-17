@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace KDuma\SimpleDAL\DataIntegrity\Contracts;
+namespace KDuma\SimpleDAL\Integrity\Contracts;
 
 interface HashingAlgorithmInterface
 {

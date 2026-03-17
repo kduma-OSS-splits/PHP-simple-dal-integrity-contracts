@@ -1,6 +1,6 @@
 {
-    "name": "kduma/simple-dal-data-integrity-contracts",
-    "description": "Simple DAL - Data integrity algorithm contracts and interfaces",
+    "name": "kduma/simple-dal-integrity-contracts",
+    "description": "Simple DAL - Integrity algorithm contracts and interfaces",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "KDuma\\SimpleDAL\\DataIntegrity\\Contracts\\": "src/"
+            "KDuma\\SimpleDAL\\Integrity\\Contracts\\": "src/"
         }
     },
     "extra": {
